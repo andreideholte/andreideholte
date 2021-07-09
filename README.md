@@ -1,7 +1,10 @@
 <h1 align="center">What's up my friends <img src="images/hi.gif" width="30px"></h1>
+
 <br />
+
 <img src="images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Representação de um café e um notebook com um editor de texto aberto">
 
+<br />
 <br />
 
 I'm **Andrei Deholte**, enthusiast of the best web. I'm a Frontend specialist, software engineer and Design.
