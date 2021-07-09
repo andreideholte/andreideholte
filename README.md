@@ -18,6 +18,8 @@ I'm **Andrei Deholte**, enthusiast of the best web. I'm a Frontend specialist, s
 <br />
 <br />
 <br />
+<br />
+<br />
 
 <p align="center">
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobeillustrator.svg" alt="Adobe Illustrator"/>
