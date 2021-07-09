@@ -40,19 +40,5 @@ I'm **Andrei Deholte**, enthusiast of the best web. I'm a Frontend specialist, s
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/materialdesign.svg" alt="Material Design"/>
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/materialui.svg" alt="MaterialUI"/>
   &nbsp;&nbsp;&nbsp;
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" alt="Java"/>
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" alt="Node.JS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cucumber.svg" alt="Cucumber"/>
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cypress.svg" alt="Cypress"/>
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jest.svg" alt="Jest"/>
-  &nbsp;&nbsp;&nbsp;
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg" alt="AmazonAWS"/>
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/elasticsearch.svg" alt="ElasticSearch"/>
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/firebase.svg" alt="Firebase"/>
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="MongoDB"/>
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySQL"/>
-  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/oracle.svg" alt="Oracle DB"/>
-  &nbsp;&nbsp;&nbsp;
   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker"/>
 </p>
