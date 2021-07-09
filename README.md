@@ -7,7 +7,7 @@
 <br />
 <br />
 
-I'm **Andrei Deholte**, enthusiast of the best web. I'm a Frontend specialist, software engineer and Design.
+I'm **Andrei Deholte**, enthusiast of the best web. I'm a Frontend specialist, software engineer and design.
 
 <br />
 
