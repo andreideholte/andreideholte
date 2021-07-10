@@ -20,7 +20,7 @@
 - 🔭 Always open to discover new things
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/andreideholte), [My E-mail](andreideholte@gmail.com)
 - 💬 Ask me about anything
-- ⚡ Curiosity: Almost professional football player
+- ⚽ Fun fact: Almost professional football player
 </p>
 
 <br />
