@@ -12,7 +12,7 @@
 
 
 <p align="left">
-  I'm <strong>Andrei Deholte</strong>, enthusiast of the best web. I'm a Frontend specialist, software engineer and design.
+  I'm <strong>Andrei Deholte</strong>, enthusiast of the best web. I'm a senior frontend engineer and design.
 
 <br />
 
