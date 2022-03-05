@@ -12,7 +12,7 @@
 
 
 <p align="left">
-  I'm <strong>Andrei Deholte</strong>, enthusiast of the best web. I'm a senior software engineer.
+  I'm <strong>Andrei Deholte</strong>, enthusiast of the best web. I'm a tech lead at SulAmérica company.
 
 <br />
 
