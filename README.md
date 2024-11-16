@@ -12,8 +12,7 @@
 
 
 <p align="left">
-  I'm <strong>Andrei Nascimento (aka deholte)</strong>. I'm a tech lead. I love frontend and architecture things.
-
+I'm <strong>Andrei Nascimento (aka deholte)</strong>, a Tech Lead with a passion for frontend development and software architecture.
 <br />
 
 - 🌐 I’m looking to contribute to open source projects.
