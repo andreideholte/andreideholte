@@ -19,7 +19,7 @@ I'm <strong>Andrei Nascimento (aka deholte)</strong>, a Tech Lead with a passion
 - 😄 Pronouns: He/Him.
 - 🔭 Always open to discover new things.
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/andreideholte), [My E-mail](andreideholte@gmail.com).
-- 🛸 Fun facts: Like Astronomy 🔭, football ⚽ and challenges 🕵️‍♂️.
+- 🛸 Fun facts: Like Astronomy 🔭, football ⚽ and challenges.
 </p>
 
 <br />
