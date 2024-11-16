@@ -12,15 +12,15 @@
 
 
 <p align="left">
-  I'm <strong>Andrei Deholte</strong>. I'm a tech lead at SulAmérica company.
+  I'm <strong>Andrei Nascimento (aka deholte)</strong>. I'm a tech lead. I love frontend and architecture things.
 
 <br />
 
-- 🚀 I'm currently working at Sulamérica
-- 🔭 Always open to discover new things
-- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/andreideholte), [My E-mail](andreideholte@gmail.com)
-- 💬 Ask me about anything
-- ⚽ Fun fact: Almost professional football player
+- 🌐 I’m looking to contribute to open source projects.
+- 😄 Pronouns: He/Him.
+- 🔭 Always open to discover new things.
+- 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/andreideholte), [My E-mail](andreideholte@gmail.com).
+- 🛸 Fun facts: Like Astronomy 🔭, football ⚽ and challenges 🕵️‍♂️.
 </p>
 
 <br />
