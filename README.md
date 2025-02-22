@@ -12,14 +12,14 @@
 
 
 <p align="left">
-I'm <strong>Andrei Nascimento (aka deholte)</strong>, a Tech Lead with a passion for frontend development and software architecture.
+I'm <strong>Andrei Nascimento (aka deholte)</strong>, a Software Engineering with a passion for full cycle development and software architecture.
 <br />
 
 - 🌐 I’m looking to contribute to open source projects.
 - 😄 Pronouns: He/Him.
-- 🔭 Always open to discover new things.
+- 💾 [My blog](https://deholte.com).
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/andreideholte), [My E-mail](andreideholte@gmail.com).
-- 🛸 Fun facts: Like Astronomy 🔭, football ⚽ and challenges.
+- 🛸 Fun facts: Like Astronomy 🔭 and football ⚽.
 </p>
 
 <br />
