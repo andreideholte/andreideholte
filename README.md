@@ -1,9 +1,9 @@
-<h1 align="center">What's up my friends <img src="images/hi.gif" width="30px"></h1>
+<h1 align="center">Hello world</h1>
 
 <br />
 <br />
 
-<img src="images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Representação de um café e um notebook com um editor de texto aberto">
+<img src="images/atompunk-andrei-pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Representação de um computador no estilo atompunk com o monitor exibindo as palavras: Andrei Nascimento Software Engineering">
 
 <br />
 <br />
@@ -19,7 +19,7 @@ I'm <strong>Andrei Nascimento (aka deholte)</strong>, a Software Engineering wit
 - 😄 Pronouns: He/Him.
 - 💾 [My blog](https://deholte.com).
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/andreideholte), [My E-mail](andreideholte@gmail.com).
-- 🛸 Fun facts: Like Astronomy 🔭 and football ⚽.
+- 🛸 Fun facts: Love Astronomy 🔭, Startrek 🖖 and football ⚽.
 </p>
 
 <br />
