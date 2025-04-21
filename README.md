@@ -3,8 +3,9 @@
 <br />
 <br />
 
-<img src="images/atompunk-andrei-pc-no-bg.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Representação de um computador no estilo atompunk com o monitor exibindo as palavras: Andrei Nascimento Software Engineering">
+<img src="images/atompunk-andrei-pc-v3.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Representação de um computador no estilo atompunk com o monitor exibindo as palavras: Andrei Nascimento Software Engineering">
 
+<br />
 
 <p align="left">
 I'm <strong>Andrei Nascimento (aka deholte)</strong>, a Software Engineering with a passion for full cycle development and software architecture.
