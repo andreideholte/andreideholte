@@ -3,12 +3,7 @@
 <br />
 <br />
 
-<img src="images/atompunk-andrei-pc-no-bg.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Representação de um computador no estilo atompunk com o monitor exibindo as palavras: Andrei Nascimento Software Engineering">
-
-<br />
-<br />
-<br />
-
+<img src="images/atompunk-andrei-pc-no-bg.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Representação de um computador no estilo atompunk com o monitor exibindo as palavras: Andrei Nascimento Software Engineering">
 
 
 <p align="left">
