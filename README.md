@@ -1,9 +1,10 @@
-<h1 align="center">Hello world <img src="images/cat.gif" width="45"></h1>
+<h1 align="center">Hi there I'm Andrei! 👋</h1>
 
 <br />
 <br />
 
-<img src="images/andrei-mac.png" min-width="225px" max-width="225px" width="225px" align="right" alt="Representação de um computador no estilo atompunk com o monitor exibindo as palavras: Andrei Nascimento Software Engineering">
+<!-- <img src="images/andrei-mac.png" min-width="225px" max-width="225px" width="225px" align="right" alt="Representação de um avatar parecido comigo, de frente ao macbook."> -->
+<img align="right" alt="GIF" src="images/rick.gif" alt="Representação animada do personagem rick sanchez teclando computadores."/>
 
 <br />
 
@@ -21,3 +22,8 @@ I'm <strong>Andrei Nascimento (aka deholte)</strong>, a Software Engineering wit
 <br />
 <br />
 <br />
+
+
+<h1 align="center">
+  <img align="center" alt="GIF" src="images/cat.gif" width="30px"/>
+</h1>
