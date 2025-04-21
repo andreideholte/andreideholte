@@ -1,12 +1,11 @@
 <h1 align="center">Hi there I'm Andrei! 👋</h1>
 
 <br />
-<br />
+
 
 <!-- <img src="images/andrei-mac.png" min-width="225px" max-width="225px" width="225px" align="right" alt="Representação de um avatar parecido comigo, de frente ao macbook."> -->
-<img align="right" alt="GIF" src="images/rick.gif" alt="Representação animada do personagem rick sanchez teclando computadores."/>
+<img align="right" src="images/rick.gif" width="400px" alt="Representação animada do personagem rick sanchez teclando computadores."/>
 
-<br />
 
 <p align="left">
 I'm <strong>Andrei Nascimento (aka deholte)</strong>, a Software Engineering with a passion for full cycle development and software architecture.
