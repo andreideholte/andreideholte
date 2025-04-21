@@ -1,9 +1,9 @@
-<h1 align="center">Hello world</h1>
+<h1 align="center">Hello world 💾</h1>
 
 <br />
 <br />
 
-<img src="images/atompunk-andrei-pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Representação de um computador no estilo atompunk com o monitor exibindo as palavras: Andrei Nascimento Software Engineering">
+<img src="images/atompunk-andrei-pc-no-bg.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Representação de um computador no estilo atompunk com o monitor exibindo as palavras: Andrei Nascimento Software Engineering">
 
 <br />
 <br />
