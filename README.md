@@ -15,7 +15,7 @@ I'm <strong>Andrei Nascimento (aka deholte)</strong>, a Software Engineering wit
 - 😄 Pronouns: He/Him.
 - 💾 [My blog](https://deholte.com).
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/andreideholte), [My E-mail](andreideholte@gmail.com).
-- 🛸 Fun facts: Love Astronomy 🔭, Startrek 🖖 and football ⚽.
+- 🛸 Fun facts: Love Astronomy 🔭, Startrek 🖖, football ⚽ and Rugs <img src="images/rug.png" width="20px" alt="Imagem representando um emoji de tapete."/>.
 </p>
 
 <br />
